@@ -1,6 +1,6 @@
 # Módulo Claude Code y Agentes — Revolutia IA Pro
 
-> Repo oficial del módulo de Claude Code para alumnos de Revolutia IA Pro. Clona, personaliza, y sale con tu propio sistema de consultoría con IA.
+> Repo oficial del módulo de Claude Code para alumnos de Revolutia IA Pro. Clona, personaliza, y sal con tu propio sistema de consultoría con IA.
 
 ## ⚡ Empezar en 3 minutos
 
