@@ -1,0 +1,52 @@
+---
+tags:
+  - type/context
+  - area/business
+created: DD-MM-YYYY
+updated: DD-MM-YYYY
+---
+
+# Negocio — contexto
+
+> Plantilla. Si tienes varios negocios, duplica este archivo: `Negocio-X.md`, `Negocio-Y.md`.
+
+## Negocio
+
+[Nombre del negocio o actividad]
+
+## Mi rol
+
+[Qué eres aquí: founder, socio, freelance, employee...]
+
+## Oferta principal
+
+[Qué vendes, a quién, por cuánto]
+
+## Avatar de cliente
+
+- Sector: [...]
+- Tamaño: [...]
+- Dolor principal: [...]
+- Cómo nos encuentra: [...]
+
+## North Star del negocio
+
+[Visión 1-3 años. Métrica principal.]
+
+## Pipeline activo (alto nivel)
+
+- [...]
+
+## Clientes activos
+
+- [Cliente 1] — estado: [...]
+- [Cliente 2] — estado: [...]
+
+## SOPs / procesos clave
+
+- [Proceso 1]: ver `SOPs/proceso-1.md`
+- [Proceso 2]: ver `SOPs/proceso-2.md`
+
+## Tono / voz
+
+[Cómo te comunicas: directo, técnico, cercano, formal...]

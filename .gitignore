@@ -1,0 +1,44 @@
+# Node / npm
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets — NUNCA commitees estos
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+secrets/
+credenciales*
+
+# Claude Code
+.claude/settings.json    # local settings (no template)
+.claude/logs/
+.claude/.local/
+
+# Vercel
+.vercel/
+.next/
+out/
+dist/
+build/
+
+# Outputs del alumno (no se versionan)
+**/02_outputs/*
+!**/02_outputs/.gitkeep
+
+# Datos del alumno (privados)
+vault-template-personalizado/
+mi-vault/
+mi-proyecto/

@@ -1,0 +1,52 @@
+# TASK.md
+
+> Plantilla de TASK.md. Una tarea por archivo, o lista de tareas en un único archivo. Tú decides.
+
+---
+
+## Tarea
+
+[Nombre claro y corto de la tarea]
+
+## Contexto breve
+
+[2-3 frases de contexto. NO repitas todo lo de CLAUDE.md, solo lo específico de esta tarea.]
+
+## Qué quiero
+
+[Resultado concreto esperado. Sé específico: si quieres "un SOP", di estructura, longitud, audiencia.]
+
+## Input disponible
+
+- @01_inputs/[archivo1.md]
+- @01_inputs/[archivo2.md]
+- [...]
+
+## Qué NO quiero
+
+- No usar jerga técnica innecesaria
+- No inventar datos, nombres, números
+- No hacer cambios fuera de `02_outputs/`
+- [Otras restricciones específicas]
+
+## Formato final
+
+[Markdown / HTML / tabla / informe ejecutivo / checklist / lo que sea]
+
+## Criterios de calidad (cómo decidimos si está bien)
+
+> Este es el equivalente al "acceptance criteria" del mundo dev. Para perfil business, lo dejamos aquí dentro.
+
+- [ ] Resuelve el problema principal
+- [ ] Es accionable por una persona no técnica
+- [ ] Incluye pasos concretos
+- [ ] Distingue hechos de suposiciones
+- [ ] Señala riesgos o dudas
+- [ ] Incluye sección de próximos pasos
+- [ ] [Criterios específicos de esta tarea]
+
+## Antes de ejecutar
+
+> Recuérdamelo SIEMPRE: primero plan, luego ejecución.
+
+Propón un plan paso a paso para llegar al entregable. **No ejecutes nada todavía.** Espera mi confirmación.

@@ -1,0 +1,15 @@
+# Plantilla Next.js — pendiente
+#
+# Si la decisión final del módulo es incluir Next.js, esta carpeta se rellena con:
+# - app/ (App Router)
+# - app/page.tsx (landing principal)
+# - app/layout.tsx
+# - tailwind.config.ts
+# - package.json
+# - next.config.js
+# - vercel.json
+# - README.md
+#
+# Por defecto, el módulo solo cubre landing-html-simple/ para no añadir complejidad.
+# Si un alumno avanzado quiere Next.js, puede pedirle a Claude:
+#   "Convierte landing-html-simple/ a Next.js con Tailwind. Mantén el mismo diseño y copy."

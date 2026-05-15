@@ -1,0 +1,36 @@
+---
+name: nombre-agente-en-kebab-case
+description: Descripción del rol del agente y cuándo invocarlo. Claude la usará para decidir si delegar tareas. Ejemplo "Agente revisor crítico que evalúa cualquier output como si fuera el cliente más exigente. Úsalo después de generar entregables para detectar fallos antes de presentar."
+tools: Read, Glob, Grep
+model: sonnet
+---
+
+Eres [rol del agente: ej. "un revisor senior de propuestas comerciales"]. [Background relevante: ej. "Llevas 10 años revisando documentos antes de que se envíen a cliente."]
+
+## Lo que SIEMPRE haces
+
+1. [Comportamiento principal 1]
+2. [Comportamiento principal 2]
+3. [Comportamiento principal 3]
+
+## Lo que NUNCA haces
+
+- [Anti-patrón 1]
+- [Anti-patrón 2]
+- [Anti-patrón 3]
+
+## Estructura de output esperada
+
+```markdown
+## [Sección 1]
+[Qué va aquí]
+
+## [Sección 2]
+[Qué va aquí]
+```
+
+## Restricciones técnicas
+
+- Tools permitidas: [Read, Glob, Grep, Edit, Write, Bash...]
+- No tocar archivos fuera de [carpeta específica]
+- [Otras restricciones]

@@ -1,0 +1,36 @@
+id,fecha_creacion,fuente,nombre_lead,canal_contacto,estado,fecha_primer_contacto,asignado_a,interes_principal,presupuesto_indicado,siguiente_accion,fecha_cierre,resultado
+1,2026-04-01,Google Ads,Lead 001,WhatsApp,contactado,2026-04-01,Maria,blanqueamiento,no,enviar precios,,
+2,2026-04-01,Instagram,Lead 002,DM,sin_contactar,,Maria,ortodoncia,si,asignar,,
+3,2026-04-02,Recomendacion,Lead 003,WhatsApp,reunion_agendada,2026-04-02,Angel,implante,si,reunion 08-04,2026-04-15,ganado
+4,2026-04-02,Google Ads,Lead 004,llamada,perdido,2026-04-02,Maria,limpieza,no,,2026-04-03,no_respondio
+5,2026-04-03,Instagram,Lead 005,DM,sin_contactar,,,limpieza,,asignar,,
+6,2026-04-03,Web,Lead 006,WhatsApp,contactado,2026-04-04,Maria,ortodoncia,si,enviar valoracion,,
+7,2026-04-04,Google Ads,Lead 007,WhatsApp,contactado,2026-04-04,Maria,blanqueamiento,no,reunion 10-04,2026-04-12,ganado
+8,2026-04-05,Google Ads,Lead 008,WhatsApp,contactado,2026-04-08,Maria,limpieza,no,enviar precios,,
+9,2026-04-05,Recomendacion,Lead 009,WhatsApp,reunion_agendada,2026-04-05,Angel,implante,si,reunion 11-04,,
+10,2026-04-06,Instagram,Lead 010,DM,sin_contactar,,,ortodoncia,,asignar,,
+11,2026-04-07,Google Ads,Lead 011,WhatsApp,perdido,2026-04-09,Maria,limpieza,no,,2026-04-10,precio
+12,2026-04-08,Web,Lead 012,WhatsApp,contactado,2026-04-08,Maria,blanqueamiento,no,enviar precios,,
+13,2026-04-09,Recomendacion,Lead 013,WhatsApp,reunion_agendada,2026-04-09,Angel,implante,si,reunion 16-04,2026-04-22,ganado
+14,2026-04-10,Google Ads,Lead 014,llamada,contactado,2026-04-10,Maria,ortodoncia,si,enviar valoracion,,
+15,2026-04-11,Instagram,Lead 015,DM,sin_contactar,,,limpieza,,asignar,,
+16,2026-04-12,Google Ads,Lead 016,WhatsApp,perdido,2026-04-15,Maria,blanqueamiento,no,,2026-04-16,no_respondio
+17,2026-04-13,Web,Lead 017,WhatsApp,contactado,2026-04-13,Maria,ortodoncia,si,enviar precios,,
+18,2026-04-14,Google Ads,Lead 018,WhatsApp,reunion_agendada,2026-04-14,Angel,implante,si,reunion 21-04,,
+19,2026-04-15,Instagram,Lead 019,DM,sin_contactar,,,ortodoncia,,asignar,,
+20,2026-04-15,Google Ads,Lead 020,WhatsApp,contactado,2026-04-17,Maria,limpieza,no,enviar precios,,
+21,2026-04-16,Recomendacion,Lead 021,llamada,reunion_agendada,2026-04-16,Angel,implante,si,reunion 23-04,2026-04-30,ganado
+22,2026-04-17,Web,Lead 022,WhatsApp,contactado,2026-04-17,Maria,blanqueamiento,no,enviar precios,,
+23,2026-04-18,Google Ads,Lead 023,WhatsApp,perdido,2026-04-22,Maria,ortodoncia,si,,2026-04-23,precio
+24,2026-04-19,Instagram,Lead 024,DM,sin_contactar,,,limpieza,,asignar,,
+25,2026-04-20,Google Ads,Lead 025,WhatsApp,contactado,2026-04-20,Maria,limpieza,no,reunion 27-04,2026-04-29,ganado
+26,2026-04-21,Web,Lead 026,WhatsApp,reunion_agendada,2026-04-21,Angel,implante,si,reunion 28-04,,
+27,2026-04-22,Recomendacion,Lead 027,WhatsApp,contactado,2026-04-22,Maria,ortodoncia,si,enviar valoracion,,
+28,2026-04-23,Google Ads,Lead 028,WhatsApp,perdido,2026-04-26,Maria,blanqueamiento,no,,2026-04-27,no_respondio
+29,2026-04-24,Instagram,Lead 029,DM,sin_contactar,,,implante,si,asignar,,
+30,2026-04-25,Google Ads,Lead 030,llamada,contactado,2026-04-25,Maria,limpieza,no,enviar precios,,
+31,2026-04-26,Web,Lead 031,WhatsApp,reunion_agendada,2026-04-26,Angel,implante,si,reunion 03-05,,
+32,2026-04-27,Recomendacion,Lead 032,WhatsApp,contactado,2026-04-27,Maria,ortodoncia,si,enviar valoracion,,
+33,2026-04-28,Google Ads,Lead 033,WhatsApp,perdido,2026-05-02,Maria,limpieza,no,,2026-05-03,precio
+34,2026-04-29,Instagram,Lead 034,DM,sin_contactar,,,blanqueamiento,no,asignar,,
+35,2026-04-30,Google Ads,Lead 035,WhatsApp,contactado,2026-04-30,Maria,limpieza,no,enviar precios,,

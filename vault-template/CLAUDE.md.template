@@ -1,0 +1,72 @@
+# CLAUDE.md — Mi Life OS
+
+> Plantilla del CLAUDE.md raíz para uso "Life OS personal" (Paradigma B). Personalízalo con el prompt `prompts/personaliza-mi-vida-os.md` o a mano.
+>
+> Regla de oro: **mantén este archivo bajo ~200 líneas**. Lo procedimental va a Skills. Lo automático a Hooks. Lo que Claude ya hace bien sin instrucción → bórralo.
+
+---
+
+## Quién soy
+
+[Nombre, rol principal, contexto vital corto]
+
+## Qué hago profesionalmente
+
+- [Negocio / actividad 1]
+- [Negocio / actividad 2]
+- [Negocio / actividad 3]
+
+## Mi north star
+
+[Frase o párrafo corto: hacia dónde voy en los próximos 1-3 años]
+
+## Áreas que gestiono en este vault
+
+- **Personal/** → diario, reflexión, hábitos, salud cotidiana
+- **Negocio/** → mis negocios, clientes, proyectos, ventas
+- **Salud/** → ejercicio, sueño, energía
+- **Aprendizaje/** → libros, cursos, conceptos atómicos
+- **Finanzas/** → gastos, ingresos, inversiones, presupuestos
+
+## Estructura del vault
+
+```
+00. Inbox/         → captura rápida sin clasificar
+01. Atomic Notes/  → conocimiento evergreen (Zettelkasten)
+02. Areas/         → áreas vivas de mi vida
+03. Sistema/       → templates, configuración, sistema interno
+```
+
+## Date format
+
+Uso `DD-MM-YYYY` para todo. Daily notes: `DD-MM-YYYY.md`. Frontmatter: `created: DD-MM-YYYY`.
+
+## Wikilinks (Obsidian)
+
+Si uso Obsidian, los enlaces internos siempre con `[[Nombre Nota]]`. Nunca markdown links para enlaces internos.
+
+## Tags principales
+
+- `type/zettel` para notas atómicas
+- `type/project` para proyectos activos
+- `area/...` (personal, business, salud, learning, finanzas)
+- `status/...` (active, paused, completed, archived)
+
+## Restricciones
+
+- NO commitees este vault si contiene datos personales reales
+- NO compartas archivos de Personal/diario sin filtrar
+- NO toques `03. Sistema/` sin entender qué cambias
+
+## Workflow diario
+
+1. Mañana → `/morning` (si lo tengo configurado)
+2. Captura del día → en `00. Inbox/`
+3. Tarea concreta → abrir Claude Code en la subcarpeta del proyecto
+4. Cierre → reflexión + mover Inbox a su sitio
+
+## Audiencia / tono
+
+- Notas personales → como hablo conmigo mismo, directo
+- Outputs para clientes (subcarpeta Negocio) → profesional, sin jerga innecesaria
+- Outputs para socios → directo, factual

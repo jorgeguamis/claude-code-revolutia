@@ -1,0 +1,32 @@
+{
+  "//": "Plantilla de settings.json para Claude Code. Copia a .claude/settings.json y personaliza. NUNCA commitees el settings.json real (está en .gitignore).",
+  "permissions": {
+    "allow": [
+      "Read",
+      "Glob",
+      "Grep",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(ls:*)",
+      "Bash(pwd)",
+      "Bash(cat:*)"
+    ],
+    "ask": [
+      "Edit",
+      "Write",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(npm install:*)",
+      "Bash(vercel:*)"
+    ],
+    "deny": [
+      "Bash(rm -rf:*)",
+      "Bash(git push --force:*)",
+      "Bash(sudo:*)"
+    ]
+  },
+  "env": {
+    "//": "Variables de entorno opcionales. Útil si tienes claves API que quieres exponer a Claude Code"
+  }
+}

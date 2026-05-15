@@ -1,0 +1,70 @@
+---
+name: nombre-skill-en-kebab-case
+description: Una frase clara que explique cuándo invocar esta skill. Claude la usará para decidir si lanzarla automáticamente. Ejemplo "Convierte un CSV de leads en un análisis ejecutivo con hallazgos y acciones priorizadas. Úsala cuando recibas datos exportados de un cliente y necesites un informe en lenguaje de negocio."
+---
+
+# Skill — [Nombre legible]
+
+## Propósito
+
+[Qué problema resuelve esta skill, en 1-2 frases]
+
+## Cuándo usarla
+
+- [Situación 1 donde aplica]
+- [Situación 2 donde aplica]
+- [Tipo de input que recibe]
+
+## Cuándo NO usarla
+
+- [Situación donde NO debe usarse para evitar mal uso]
+- [Otro límite]
+
+## Inputs requeridos
+
+Coloca en `01_inputs/`:
+
+- `archivo-1.[md|csv|...]` — [qué contiene]
+- `archivo-2.[...]` — [...]
+
+Opcional:
+
+- `archivo-opcional.md` — [...]
+
+## Process
+
+1. **[Paso 1]** — descripción concreta
+2. **[Paso 2]** — [...]
+3. **[Paso 3]** — [...]
+4. **[Paso 4]** — [...]
+5. **[Paso 5]** — [...]
+
+## Output
+
+Crear en `02_outputs/`:
+
+- `output-1.md` — [qué contiene]
+- `output-2.md` — [...]
+
+## Reglas de calidad
+
+- [Regla 1: ej. lenguaje no técnico]
+- [Regla 2: ej. nunca inventar datos]
+- [Regla 3: ej. distinguir hecho de suposición]
+
+## Confirmación
+
+Antes de generar los archivos finales, presentar al usuario:
+
+1. [Lo que se confirma antes de escribir]
+2. [...]
+
+Solo después de "ok, adelante" → escribir archivos.
+
+## Known Issues & Learnings
+
+> Cada vez que la skill falle o produzca algo inesperado, registra el aprendizaje aquí. Esto es self-annealing: el sistema mejora con el uso.
+
+| Date | Issue | Resolution |
+|---|---|---|
+| | | |
