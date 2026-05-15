@@ -52,8 +52,8 @@ Si todo está OK, verás verde en cada línea.
 
 ```bash
 cd ~/Desktop                    # o donde quieras tener tus proyectos
-git clone https://github.com/<TBD>/modulo-claude-code-revolutia.git
-cd modulo-claude-code-revolutia
+git clone https://github.com/jorgeguamis/claude-code-revolutia.git
+cd claude-code-revolutia
 ```
 
 ## Paso 6 — Ejecuta el verificador del repo

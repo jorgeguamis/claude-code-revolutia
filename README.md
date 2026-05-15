@@ -5,8 +5,8 @@
 ## ⚡ Empezar en 3 minutos
 
 ```bash
-git clone https://github.com/<TBD>/modulo-claude-code-revolutia.git
-cd modulo-claude-code-revolutia
+git clone https://github.com/jorgeguamis/claude-code-revolutia.git
+cd claude-code-revolutia
 ./bin/verify-setup.sh         # comprueba node, npm, claude, git, vercel
 claude                        # abre Claude Code en este repo
 ```
