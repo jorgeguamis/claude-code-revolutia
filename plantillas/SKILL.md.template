@@ -20,16 +20,6 @@ description: Una frase clara que explique cuándo invocar esta skill. Claude la 
 - [Situación donde NO debe usarse para evitar mal uso]
 - [Otro límite]
 
-## Inputs requeridos
-
-Coloca en `01_inputs/`:
-
-- `archivo-1.[md|csv|...]` — [qué contiene]
-- `archivo-2.[...]` — [...]
-
-Opcional:
-
-- `archivo-opcional.md` — [...]
 
 ## Process
 
